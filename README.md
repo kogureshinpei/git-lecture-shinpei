@@ -1,11 +1,12 @@
 # github-lecture-2025-5-31
-2025/05/31のgit/github講座で仕様するテンプレートリポジトリ
+
+2025/05/31 の git/github 講座で仕様するテンプレートリポジトリ
 
 ## 使い方
+
 1. `use thie template` を押して、`create a new repository` を押す
 
 ![first](./img/first.png)
-
 
 2. `Create a new repository` という画面が出てくるので、`owner` に自分のアカウントを選択
 
